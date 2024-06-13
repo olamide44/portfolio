@@ -1,4 +1,1 @@
-echo "www.olamideyusuf.com" > CNAME
-git add CNAME
-git commit -m "Add custom domai"
-git push origin main
+www.olamideyusuf.com
